@@ -10,3 +10,10 @@ The Onshape document which I'm working on can be found [here.](https://cvillesch
 The base is pretty simple to make: one 120x200mm rectangle, and a few holes. I didn't run into any issues along the way, and I feel completely used to Onshape already.
 
 <img src="/caster/images/base.png" width="600px" height="360px" alt="Caster Base">
+
+
+### Mount
+
+The mount is extremely simple to make when building on the base sketch. Just one 120mm long line and 8mm extrusion later, I had a mount. Multi-part part studios are simply amazing.
+
+<img src="/caster/images/mount.png" width="600px" height="360px" alt="Caster Mount">
