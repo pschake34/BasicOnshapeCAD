@@ -1,6 +1,6 @@
 # Mount
 
-The mount is extremely simple to make when building on the instructions for the base outlined [here.]("/caster/parts/base/README.md")
+The mount is extremely simple to make when building on the instructions for the base outlined [here.](/caster/parts/base/README.md)
 
 All you need to do is edit the Base Sketch and add one line as illustrated here:
 
