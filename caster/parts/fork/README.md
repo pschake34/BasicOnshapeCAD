@@ -26,7 +26,7 @@ The circular stem of the Fork is made up of two circles centered on the origin, 
 
 <img src="/caster/parts/fork/images/cylinder_sketch.png" width="600px" height="360px" alt="Stem Sketch">
 
-### Completion
+### Complete
 
 The final step is putting in some fillets and chamfers which can be found in the Onshape document above. When you're finished, it should look like this:
 
