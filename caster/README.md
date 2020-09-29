@@ -7,7 +7,7 @@ The Onshape document which I'm working on can be found [here.](https://cvillesch
 
 ### Base
 
-The base is pretty simple to make: one 120x200mm rectangle, and a few holes. I didn't run into any issues along the way, and I feel completely used to Onshape already.
+The base was pretty simple to make: one 120x200mm rectangle, and a few holes. I didn't run into any issues along the way, and I feel completely used to Onshape already.
 
 <a href="/caster/parts/base/README.md">
     <img src="/caster/images/base.png" width="600px" height="360px" alt="Caster Base">
@@ -17,10 +17,14 @@ The base is pretty simple to make: one 120x200mm rectangle, and a few holes. I d
 
 The mount is extremely simple to make when building on the base sketch. Just one 120mm long line and 8mm extrusion later, I had a mount. Multi-part part studios are simply amazing.
 
-<img src="/caster/images/mount.png" width="600px" height="360px" alt="Caster Mount">
+<a href="/caster/parts/mount/README.md">
+    <img src="/caster/images/mount.png" width="600px" height="360px" alt="Caster Mount">
+</a>
 
 ### Fork
 
 The fork was slightly more complicated, but still not a challenge with the simplicity of Onshape. The hardest part is remembering where to find the functions without keyboard shortcuts.
 
-<img src="/caster/images/fork.png" width="600px" height="360px" alt="Caster Fork">
+<a href="/caster/parts/fork/README.md">
+    <img src="/caster/images/fork.png" width="600px" height="360px" alt="Caster Fork">
+</a>
