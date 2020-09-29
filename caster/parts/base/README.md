@@ -1,6 +1,6 @@
 # Base
 
-The following details the specific dimensions required to make the base of the caster, as well as including some notes if something is especially tricky.
+The following details the specific dimensions required to make the base of the caster, as well as including some notes if something is especially tricky. The part studio with this part is [here.](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/28092cdd77be910dc765f2cd)
 
 ### Base Sketch
 

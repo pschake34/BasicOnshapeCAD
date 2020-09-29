@@ -1,6 +1,6 @@
 # Mount
 
-The mount is extremely simple to make when building on the instructions for the base outlined [here.](/caster/parts/base/README.md)
+The mount is extremely simple to make when building on the instructions for the base outlined [here.](/caster/parts/base/README.md) The part studio with the part is [here.](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/28092cdd77be910dc765f2cd)
 
 All you need to do is edit the Base Sketch and add one line as illustrated here:
 
