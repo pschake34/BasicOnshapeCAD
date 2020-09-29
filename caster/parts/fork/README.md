@@ -12,7 +12,7 @@ The main circle is just an 80mm circle centered on the origin, extruded 8mm.
 
 The prongs are sketched on one side of the main circle. I used a construction line to get the rectangle away from the origin. The prong sketch is extruded 80mm, and filleted down 15mm.
 
-<img src="/caster/parts/fork/images/prong_sketch.png" width="600px" height="360px" alt="Prong Sketch">
+<img src="/caster/parts/fork/images/prongs_sketch.png" width="600px" height="360px" alt="Prong Sketch">
 
 ### Prong Hole
 
