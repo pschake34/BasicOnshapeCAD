@@ -6,25 +6,25 @@ The fork is the first part that actually made me think about how I would do some
 
 The main circle is just an 80mm circle centered on the origin, extruded 8mm.
 
-<img src="/caster/parts/images/circle_sketch.png" width="600px" height="360px" alt="Circle Sketch">
+<img src="/caster/parts/fork/images/circle_sketch.png" width="600px" height="360px" alt="Circle Sketch">
 
 ### Prongs
 
 The prongs are sketched on one side of the main circle. I used a construction line to get the rectangle away from the origin. The prong sketch is extruded 80mm, and filleted down 15mm.
 
-<img src="/caster/parts/images/prong_sketch.png" width="600px" height="360px" alt="Prong Sketch">
+<img src="/caster/parts/fork/images/prong_sketch.png" width="600px" height="360px" alt="Prong Sketch">
 
 ### Prong Hole
 
 For the hole in the prongs, I again used a construction line to center the hole in the middle of the prong, and just extruded through all.
 
-<img src="/caster/parts/images/hole_sketch.png" width="600px" height="360px" alt="Prong Hole Sketch">
+<img src="/caster/parts/fork/images/hole_sketch.png" width="600px" height="360px" alt="Prong Hole Sketch">
 
 ### Stem
 
 The circular stem of the Fork is made up of two circles centered on the origin, and extruded up 60mm. 
 
-<img src="/caster/parts/images/cylinder_sketch.png" width="600px" height="360px" alt="Stem Sketch">
+<img src="/caster/parts/fork/images/cylinder_sketch.png" width="600px" height="360px" alt="Stem Sketch">
 
 ### Completion
 
