@@ -39,7 +39,7 @@ The tire was the first part with a revolve, but that wasn't problem thanks to th
 
 ### Wheel
 
-I made the wheel in the same part studio as the tire. It was definetely the most complex part, and I did run into an issue. I got through the sketching of the spoke wheel without any problems, but when I filleted and patterned it, the hole looked wrong. I was left doubting myself, so I went through the sketch, the revolve, the fillet, and anything else I could come up with. Eventually, I decided to just watch the video on how to make it, and it turns out that the fillet in the instructions was too large (4mm instead of 2mm). Other than that mishap, the wheel rolled along smoothly.
+I made the wheel in the same part studio as the tire. It was definetely the most complex part, and I did run into an issue. I got through the sketching of the spoke hole without any problems, but when I filleted and patterned it, the hole looked wrong. I was left doubting myself, so I went through the sketch, the revolve, the fillet, and everything else I could come up with. Eventually, I decided to just watch the video on how to make it, and it turns out that the fillet in the instructions was too large (4mm instead of 2mm). Other than that mishap, the wheel rolled along smoothly.
 
 <a href="/caster/parts/wheel/README.md">
    <img src="/caster/images/wheel.png" width="600px" height="360px" alt="Caster Wheel">
