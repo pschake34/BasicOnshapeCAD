@@ -2,5 +2,5 @@
 
 This repo contains all of the BasicCAD Assignments from Engineering II.
 
-## Table of Contents
+### Table of Contents
 * [**Assignment 1: Caster**](/caster)
