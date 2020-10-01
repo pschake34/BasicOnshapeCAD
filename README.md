@@ -1,2 +1,6 @@
 # BasicOnshapeCAD
-This repo documents my work learning CAD in Onshape
+
+This repo contains all of the BasicCAD Assignments from Engineering II.
+
+## Table of Contents
+* [**Assignment 1: Caster**](/caster)
