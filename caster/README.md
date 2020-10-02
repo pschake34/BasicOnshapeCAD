@@ -28,7 +28,8 @@ The base is the first assignment in the caster. It's a 120x200mm rectangle with 
 
 ### Reflection
 
-This first Onshape part was easy to make thanks to the [Onshape Fundamentals Course](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad), and the detailed instructions in the assignment.
+This first Onshape part was easy to make thanks to the [Onshape Fundamentals Course](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad), and 
+the detailed instructions in the assignment.
 
 
 
@@ -48,7 +49,8 @@ The second part of the caster is the mount. It's a 120mm square which shares mos
 
 ### Reflection
 
-Because the mount shares the geometry of the base, I made the two parts in the same Part Studio. This feature greatly reduced the time I had to put into the part, because I only had to add one line and one new extrusion. Multi-part part studios are simply amazing.
+Because the mount shares the geometry of the base, I made the two parts in the same Part Studio. This feature greatly reduced the time I had to put into the part, 
+because I only had to add one line and one new extrusion. Multi-part part studios are simply amazing.
 
 
 
@@ -56,7 +58,8 @@ Because the mount shares the geometry of the base, I made the two parts in the s
 
 ### Description
 
-The third part of the caster is the fork, a considerably more complex part than the first two. The fork consists of a circular base 80mm in diameter, two prongs which are 80mm long and filleted down 15mm, and a 60mm long cylindrical stem. 
+The third part of the caster is the fork, a considerably more complex part than the first two. The fork consists of a circular base 80mm in diameter, two prongs 
+which are 80mm long and filleted down 15mm, and a 60mm long cylindrical stem. 
 
 ### Evidence
 
@@ -68,7 +71,8 @@ The third part of the caster is the fork, a considerably more complex part than 
 
 ### Reflection
 
-The fork was slightly more complicated, but still not a challenge with the simplicity of Onshape. The hardest part for me was remembering where to find the functions which don't command the honor of being designated a keyboard shortcut.
+The fork was slightly more complicated, but still not a challenge with the simplicity of Onshape. The hardest part for me was remembering where to find the 
+functions which don't command the honor of being designated a keyboard shortcut.
 
 
 
@@ -76,30 +80,45 @@ The fork was slightly more complicated, but still not a challenge with the simpl
 
 ### Description
 
+The next part in the caster is the tire, which is 15mmx20mm at its largest point and has angled sides. It's revolved 360° around a horizontal construction line, 
+and filleted down 8mm on the outer edges.
+
 ### Evidence
+
+[Part Studio containing my Tire part](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/3c0210e8dc1e0fa13d604cdf)
 
 ### Image
 
+<img src="/caster/images/tire.png" width="600px" height="360px" alt="Caster Tire">
+
 ### Reflection
 
-The tire was the first part with a revolve, but that wasn't problem thanks to the practice in Onshape Fundamentals. No issues to report, just smooth sailing.
+This was a very satisfyingly simple part to make. It's fun to see how easily you can turn a simple sketch into a tire with just the revolve function. One thing I 
+was slightly disappointed about was that there was no keyboard shortcut for revolving. However, in my searching for said keyboard shortcut, I found a really 
+trippy function which shows the curvature of a shape. It's called **Curvature Visualization**, and you can find it under **Camera and Render options** in the top 
+right corner. Here is a picture of the tire with the option turned on:
 
-<a href="/caster/parts/tire/README.md">
-    <img src="/caster/images/tire.png" width="600px" height="360px" alt="Caster Tire">
-</a>
+<img src="/caster/images/curvature_visual.png" width="400px" height="240px" alt="Trippy Picture">
+
+
 
 ## Wheel
 
 ### Description
 
+The Wheel is the fifth part of the caster. I built it in the same part studio as the tire since the two parts share some key geometry. The base sketch of the 
+wheel looks like the letter **I**, and is 35mmx20mm. That base sketch is revolved 360°, and has five spoke holes cut patterned on the large face of the wheel.
+
 ### Evidence
+
+[Part Studio containing my Wheel part](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/3c0210e8dc1e0fa13d604cdf)
 
 ### Image
 
+<img src="/caster/images/wheel.png" width="600px" height="360px" alt="Caster Wheel">
+
 ### Reflection
 
-I made the wheel in the same part studio as the tire. It was definetely the most complex part, and I did run into an issue. I got through the sketching of the spoke hole without any problems, but when I filleted and patterned it, the hole looked wrong. I was left doubting myself, so I went through the sketch, the revolve, the fillet, and everything else I could come up with. Eventually, I decided to just watch the video on how to make it, and it turns out that the fillet in the instructions was too large (4mm instead of 2mm). Other than that mishap, the wheel rolled along smoothly.
-
-<a href="/caster/parts/wheel/README.md">
-   <img src="/caster/images/wheel.png" width="600px" height="360px" alt="Caster Wheel">
-</a>
+The Wheel was the most complex part of the caster so far, and apart from a small hiccup regarding a fillet size, I encountered no problems. In the main I-shaped 
+sketch, I tried using 6 lines mirrored over the vertical construction line instead of using 3 rectangles. I think that using this approach was more efficient in 
+my situation where I was building the wheel in the same sketch as the tire, and it still produced the desired result.
