@@ -129,7 +129,8 @@ my situation where I was building the wheel in the same sketch as the tire, and 
 
 ### Description
 
-The final few parts were all in one assignment, and I made them in an assortment of part studios so that I could best take advantage of existing geometry. The discriptions for the small parts are as follows:
+The final few parts were all in one assignment, and I made them in an assortment of part studios so that I could best take advantage of existing geometry. The 
+descriptions for the small parts are as follows:
 * Axle -- 60mm long tube which is 10mm in diameter, and has a flat bit on either end.
 * Collar -- 10mm long hollow cylinder which has a diameter of 10mm, and a 3mm hole in the side.
 * Bearing -- A 25mm circle with a width of 10mm, which is extruded 5mm.
@@ -150,5 +151,7 @@ The final few parts were all in one assignment, and I made them in an assortment
 ### Reflection
 
 These parts were quite simple, but I still learned some things in the process.
-1. The **Use Function**. It was very useful for creating sketches which relied on existing geometry, and has an extremely intuitive keybinding of "**u**".
-2. I learned how to put together multiple images into a single image using GIMP. I found [this stackexchange answer](https://graphicdesign.stackexchange.com/a/122304) very helpful to do so.
+1. The **Use Function** is a feature that I found was very useful for creating sketches which relied on existing geometry. The function has an extremely intuitive 
+keybinding of "**U**".
+2. I learned how to compile multiple images into a single image using GIMP. I found [this stackexchange answer](https://graphicdesign.stackexchange.com/a/122304) 
+to be very helpful as a guide.
