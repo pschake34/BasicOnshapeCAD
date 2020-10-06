@@ -10,6 +10,7 @@ The Onshape document which I'm working on can be found [here.](https://cvillesch
 * [Fork](#fork)
 * [Tire](#tire)
 * [Wheel](#wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
 
 
 ## Base
@@ -122,3 +123,32 @@ wheel looks like the letter **I**, and is 35mmx20mm. That base sketch is revolve
 The Wheel was the most complex part of the caster so far, and apart from a small hiccup regarding a fillet size, I encountered no problems. In the main I-shaped 
 sketch, I tried using 6 lines mirrored over the vertical construction line instead of using 3 rectangles. I think that using this approach was more efficient in 
 my situation where I was building the wheel in the same sketch as the tire, and it still produced the desired result.
+
+
+## AxleCollarBearings
+
+### Description
+
+The final few parts were all in one assignment, and I made them in an assortment of part studios so that I could best take advantage of existing geometry. The discriptions for the small parts are as follows:
+* Axle -- 60mm long tube which is 10mm in diameter, and has a flat bit on either end.
+* Collar -- 10mm long hollow cylinder which has a diameter of 10mm, and a 3mm hole in the side.
+* Bearing -- A 25mm circle with a width of 10mm, which is extruded 5mm.
+* Washer -- Technically another bearing, it's a 25mm circle which is extruded 5mm, and has a width of 5mm.
+
+### Evidence
+
+[Part Studio with Axle and Collar](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/4a3403c658c5d2226fc0abb4)
+
+[Part Studio with Bearing](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/3c0210e8dc1e0fa13d604cdf)
+
+[Part Studio with Washer/Second Bearing](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/b4eec7aa4b944c1d3250ee23)
+
+### Image
+
+<img src="/caster/images/axle_collar_bearings.png" width="600px" height="360px" alt="Caster Small Parts">
+
+### Reflection
+
+These parts were quite simple, but I still learned some things in the process.
+1. The **Use Function**. It was very useful for creating sketches which relied on existing geometry, and has an extremely intuitive keybinding of "**u**".
+2. I learned how to put together multiple images into a single image using GIMP. I found [this stackexchange answer](https://graphicdesign.stackexchange.com/a/122304) very helpful to do so.
