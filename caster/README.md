@@ -10,7 +10,8 @@ The Onshape document which I'm working on can be found [here.](https://cvillesch
 * [Fork](#fork)
 * [Tire](#tire)
 * [Wheel](#wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [AxleCollarBearings](#axlecollarbearings)
+* [Sub-Assembly](#sub-assembly)
 
 
 ## Base
@@ -129,8 +130,7 @@ my situation where I was building the wheel in the same sketch as the tire, and 
 
 ### Description
 
-The final few parts were all in one assignment, and I made them in an assortment of part studios so that I could best take advantage of existing geometry. The 
-descriptions for the small parts are as follows:
+The final few parts are all in one assignment, and I made them in an assortment of part studios so that I could best take advantage of existing geometry. The descriptions for the small parts are as follows:
 * Axle -- 60mm long tube which is 10mm in diameter, and has a flat bit on either end.
 * Collar -- 10mm long hollow cylinder which has a diameter of 10mm, and a 3mm hole in the side.
 * Bearing -- A 25mm circle with a width of 10mm, which is extruded 5mm.
@@ -155,3 +155,22 @@ These parts were quite simple, but I still learned some things in the process.
 keybinding of "**U**".
 2. I learned how to compile multiple images into a single image using GIMP. I found [this stackexchange answer](https://graphicdesign.stackexchange.com/a/122304) 
 to be very helpful as a guide.
+
+
+## Sub-Assembly
+
+### Description
+
+The Sub-Assembly is the first component of the full assembly. It consists of the Wheel, the Tire, the Axle, and two Bearings. The Wheel and Tire are fastened together, while the mates between the Axle and Wheel, and both of the bearing mates, are revolute.
+
+### Evidence
+
+[Onshape Assembly with Sub-Assembly](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/7298ad04a75c2f2b9b43f643)
+
+### Image
+
+<img src="/caster/images/sub-assembly.png" width="600px" height="360px" alt="Caster Sub-Assembly">
+
+### Reflection
+
+This was the first time outside of the Onshape Fundamentals course that I have put together an assembly. I was very surprised at the simplicity of the mates in Onshape. After having nightmares about Solidworks mates, the Onshape mates are a pleasure to use. The only complaint I have about them is that there is only one keyboard shortcut for mates. You can create a general mate by pressing **M**, but you have to open the menu and select a specific mate if you want anything other than the default fastened mate.
