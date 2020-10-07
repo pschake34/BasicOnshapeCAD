@@ -13,6 +13,8 @@ The Onshape document which I'm working on can be found [here.](https://cvillesch
 * [AxleCollarBearings](#axlecollarbearings)
 * [Sub-Assembly](#sub-assembly)
 
+<br>
+<br>
 
 ## Base
 
@@ -33,7 +35,8 @@ The base is the first assignment in the caster. It's a 120x200mm rectangle with 
 This first Onshape part was easy to make thanks to the [Onshape Fundamentals Course](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad), and 
 the detailed instructions in the assignment.
 
-
+<br>
+<br>
 
 ## Mount
 
@@ -54,7 +57,8 @@ The second part of the caster is the mount. It's a 120mm square which shares mos
 Because the mount shares the geometry of the base, I made the two parts in the same Part Studio. This feature greatly reduced the time I had to put into the part, 
 because I only had to add one line and one new extrusion. Multi-part part studios are simply amazing.
 
-
+<br>
+<br>
 
 ## Fork
 
@@ -76,7 +80,8 @@ which are 80mm long and filleted down 15mm, and a 60mm long cylindrical stem.
 The fork was slightly more complicated, but still not a challenge with the simplicity of Onshape. The hardest part for me was remembering where to find the 
 functions which don't command the honor of being designated a keyboard shortcut.
 
-
+<br>
+<br>
 
 ## Tire
 
@@ -102,7 +107,8 @@ right corner. Here is a picture of the tire with the option turned on:
 
 <img src="/caster/images/curvature_visual.png" width="400px" height="240px" alt="Trippy Picture">
 
-
+<br>
+<br>
 
 ## Wheel
 
@@ -125,6 +131,8 @@ The Wheel was the most complex part of the caster so far, and apart from a small
 sketch, I tried using 6 lines mirrored over the vertical construction line instead of using 3 rectangles. I think that using this approach was more efficient in 
 my situation where I was building the wheel in the same sketch as the tire, and it still produced the desired result.
 
+<br>
+<br>
 
 ## AxleCollarBearings
 
@@ -156,6 +164,8 @@ keybinding of "**U**".
 2. I learned how to compile multiple images into a single image using GIMP. I found [this stackexchange answer](https://graphicdesign.stackexchange.com/a/122304) 
 to be very helpful as a guide.
 
+<br>
+<br>
 
 ## Sub-Assembly
 
