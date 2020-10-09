@@ -12,6 +12,7 @@ The Onshape document which I'm working on can be found [here.](https://cvillesch
 * [Wheel](#wheel)
 * [AxleCollarBearings](#axlecollarbearings)
 * [Sub-Assembly](#sub-assembly)
+* [Final Assembly](#final-assembly)
 
 <br>
 <br>
