@@ -184,3 +184,26 @@ The Sub-Assembly is the first component of the full assembly. It consists of the
 ### Reflection
 
 This was the first time outside of the Onshape Fundamentals course that I have put together an assembly. I was very surprised at the simplicity of the mates in Onshape. After having nightmares about Solidworks mates, the Onshape mates are a pleasure to use. The only complaint I have about them is that there is only one keyboard shortcut for mates. You can create a general mate by pressing **M**, but you have to open the menu and select a specific mate if you want anything other than the default fastened mate.
+
+<br>
+<br>
+
+## Final Assembly
+
+### Description
+
+The last assignment is the final assembly. It was basically just throwing all of the parts together and calling it a day. Below is the complete parts list for the Caster:
+
+<img src="/caster/images/bill_of_materials.png" width="400" alt="Caster Bill of Materials"> 
+
+### Evidence
+
+[Onshape Assembly with the Final Assembly](https://cvilleschools.onshape.com/documents/44d11c822fc5279efa47b295/w/90300413fc4f16957eadc67b/e/dac564c4ba71abf27659afdd)
+
+### Image
+
+<img src="/caster/images/final_assembly.png" width="600px" height="360px" alt="Caster Final Assembly">
+
+### Reflection
+
+The final assembly was mostly smooth sailing, though I did run into some issues with the screws and nuts. When I would put in a screw, it would look like it had automatically snapped to the right spot, but I would get an error saying that it was missing a mate connector. I got around this issue by putting the screw in and then manually mating it to the proper place. My consternation with the Standard Content screws and nuts came to a head when I went to take my screenshot, and upon trying to make the mate connectors invisible, I discovered that I couldn't. I spent a solid hour and a half looking for a solution, but none presented itself, and, seeing that it was but a relatively minor detail, I decided to just let it slide.
