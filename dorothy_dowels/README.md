@@ -22,7 +22,7 @@ first dowel is 25.4mm (1in) long and has a diameter of 6.35mm.
 
 ### Image
 
-<img src="/dorothy_dowels/images/base_dowel.png" width="600px" height="360px" alt="Dorothy's Dowels Base Dowel"
+<img src="/dorothy_dowels/images/base_dowel.png" width="600px" height="360px" alt="Dorothy's Dowels Base Dowel">
 
 <br>
 <br>
