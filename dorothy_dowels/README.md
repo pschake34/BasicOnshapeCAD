@@ -13,9 +13,12 @@ description, and evidence for each small part, and have a final reflection with 
 
 ### Description
 
-The first part of Dorothy's Dowels was to make the dowel configurations. Below is a table of the different dowel configurations:
+The first part of Dorothy's Dowels was to make the dowel configurations. I made configurations for length, diameter, and having a chamfer. Below is a
+ table of those different dowel configurations:
 
-<img src="/dorothy_dowels/images/dowel_configurations.png" width="300px" alt="Dorothy's Dowels Configurations">
+<img src="/dorothy_dowels/images/dowel_configurations/diameter_config.png" width="300px" alt="Dorothy's Dowels Configurations">
+<img src="/dorothy_dowels/images/dowel_configurations/length_config.png" width="300px" alt="Dorothy's Dowels Configurations">
+<img src="/dorothy_dowels/images/dowel_configurations/chamfer_config.png" width="300px" alt="Dorothy's Dowels Configurations">
 
 ### Evidence
 
