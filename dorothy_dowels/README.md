@@ -58,3 +58,25 @@ onto the other side using a mate connector as the mirror plane. The feature to u
 
 <br>
 <br>
+
+## Frame Assembly
+
+### Description
+
+The last part of the assignment was to assemble the frame parts with some dowel pins into a shape which looks like a picture frame. The bill of 
+materials is as follows:
+
+<img src="/dorothy_dowels/images/bill_of_materials.png" width="562px" alt="Frame Assembly Bill of Materials">
+
+### Evidence
+
+[Onshape Assembly containing my Frame Assembly](https://cvilleschools.onshape.com/documents/c9ac82162a3090764a17b9b5/w/17425d9436da4db7fa621807/e/1af8e47f74a83bed1224ccc1)
+
+### Image
+
+<img src="/dorothy_dowels/images/frame_assembly.png" height="360px" alt="Frame Assembly">
+
+### Reflection
+
+The Frame Assembly was not much of a hassle. I appreciated the intuitiveness of the menu in which you select the configuration to insert, and 
+everything worked as expected. No problems to speak of, and that's a good thing.
