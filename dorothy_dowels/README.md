@@ -2,6 +2,8 @@
 
 This is the project folder for the Dorothy's Dowels assignment. This README is my engineering notebook for Dorothy's Dowels.
 
+The Onshape document which I'm working on can be found [here.](https://cvilleschools.onshape.com/documents/c9ac82162a3090764a17b9b5)
+
 ## Table of Contents
 * [Dowel Pin Configurations](#dowel-pin-configurations)
 * [Frame Configurations](#frame-configurations)
