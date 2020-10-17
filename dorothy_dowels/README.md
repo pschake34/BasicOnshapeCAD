@@ -5,6 +5,7 @@ This is the project folder for the Dorothy's Dowels assignment. This README is m
 ## Table of Contents
 * [Dowel Pin Configurations](#dowel-pin-configurations)
 * [Frame Configurations](#frame-configurations)
+* [Frame Assembly](#frame-assembly)
 
 <br>
 <br>
@@ -57,7 +58,6 @@ class. I made the two holes on one side of the frame (centering them with some c
 onto the other side using a mate connector as the mirror plane. The feature to use a mate connector as a plane is purely magical.
 
 <br>
-<br>
 
 ## Frame Assembly
 
@@ -74,7 +74,7 @@ materials is as follows:
 
 ### Image
 
-<img src="/dorothy_dowels/images/frame_assembly.png" height="360px" alt="Frame Assembly">
+<img src="/dorothy_dowels/images/frame_assembly.png" height="250px" alt="Frame Assembly">
 
 ### Reflection
 
