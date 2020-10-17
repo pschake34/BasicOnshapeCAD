@@ -4,6 +4,7 @@ This is the project folder for the Dorothy's Dowels assignment. This README is m
 
 ## Table of Contents
 * [Dowel Pin Configurations](#dowel-pin-configurations)
+* [Frame Configurations](#frame-configurations)
 
 <br>
 <br>
