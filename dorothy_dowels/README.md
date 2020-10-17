@@ -13,23 +13,23 @@ This is the project folder for the Dorothy's Dowels assignment. This README is m
 
 ### Description
 
-The first part of Dorothy's Dowels was to make the dowel configurations. I made configurations for length, diameter, and having a chamfer. Below is a
- table of those different dowel configurations:
+The first part of Dorothy's Dowels was to make the dowel pin configurations. I made configurations for length, diameter, and having a chamfer. Below is a
+ table of those different dowel pin configurations:
 
-<img src="/dorothy_dowels/images/dowel_configurations.png" height="258px" alt="Dorothy's Dowels Configurations">
+<img src="/dorothy_dowels/images/dowel_configurations.png" height="258px" alt="Dorothy's Dowel Pin Configurations">
 
 ### Evidence
 
-[Part Studio containing my Dowel Configurations](https://cvilleschools.onshape.com/documents/c9ac82162a3090764a17b9b5/w/17425d9436da4db7fa621807/e/84e4209c7872dfdfe465c9ff)
+[Part Studio containing my Dowel Pin Configurations](https://cvilleschools.onshape.com/documents/c9ac82162a3090764a17b9b5/w/17425d9436da4db7fa621807/e/84e4209c7872dfdfe465c9ff)
 
 ### Image
 
 <img src="/dorothy_dowels/images/base_dowel.png" width="600px" height="360px" alt="Dorothy's Dowels Default Dowel Configuration">
-This is the default configuration for the dowel.
+This is the default configuration for the dowel pin.
 
 ### Reflection
 
-The Dowel Pin was very easy to make, and the configurations were surprisingly simple to use. It took me a minute or two to grasp exactly what I needed
+The Dowel Pin was very easy to make, and Onshape configurations were surprisingly simple to use. It took me a minute or two to grasp exactly what I needed
 to do to make a configuration, but once I got past that, they were statisfyingly simple and effective.
 
 <br>
