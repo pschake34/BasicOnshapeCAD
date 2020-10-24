@@ -1,7 +1,7 @@
 # Onshape Challenge
 
 The Onshape Challenge assignment was to create a universal joint -- the same as the one used for last year's Engineering 1 midterm. This is the project
-folder for the Onshape challenge, and this README is its engineering notebook.
+folder for the Onshape challenge, and this README is its engineering notebook. I timed myself doing the assigment, and it took me 54 minutes.
 
 The Onshape document which I'm working on can be found [here.](https://cvilleschools.onshape.com/documents/960910b4e98ce4e4f0341b9a)
 
@@ -56,7 +56,7 @@ cut out of it so that it is 13mm wide, and has 4mm fillets on all of the sharp e
 
 ### Reflection
 
-The spinner shaft was fairly complicated, and while i didn't run into any major issues, I did have to mess around with the prong dimensions and fillets
+The spinner shaft was fairly complicated, and while I didn't run into any major issues, I did have to mess around with the prong dimensions and fillets
 in order to get it to look completely correct. This was definitely the most difficult part of the universal joint.
 
 <br>
@@ -101,7 +101,7 @@ spinner shafts to attach to the bracket, and finally one revolute mate each for 
 
 ### Image
 
-<img src="/onshape_challenge/images/animation.GIF"
+<img src="/onshape_challenge/images/animation.GIF">
 
 ### Reflection
 
