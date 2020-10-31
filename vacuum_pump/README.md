@@ -25,7 +25,7 @@ extruded 210mm.
 
 ### Evidence
 
-[Part Studio containing my Outer Cylinger part](https://cvilleschools.onshape.com/documents/8eda673fefaec82919b2605d/w/e2e279f3543df728c9e7ceaf/e/c87201af71408a08f58339ae)
+[Part Studio containing my Outer Cylinder part](https://cvilleschools.onshape.com/documents/8eda673fefaec82919b2605d/w/e2e279f3543df728c9e7ceaf/e/c87201af71408a08f58339ae)
 
 ### Image
 
@@ -44,8 +44,8 @@ with the rest of the parts in the final assembly.
 ### Description
 
 The second part which I created was the plunger. I created this part in the same part studio as the outer cylinder, and used the inner diameter of said 
-part as the outer diameter of the plunger. The inner diameter was 20mm (congruent with Max's master cylinder) and the part was extruded 25mm. Another ring
-was cut out of the main extrusion so that each surface of the plunger was 5mm thick.
+part as the outer diameter of the plunger. The plunger's inner diameter was 20mm (congruent with Max's master cylinder), and the part was extruded 25mm.
+Another ring was cut out of the main extrusion so that each surface of the plunger was 5mm thick.
 
 ### Evidence
 
@@ -72,7 +72,7 @@ diameter of the plunger for the inner diameter of this part. The outer diameter 
 
 ### Evidence
 
-[Part Studio containing my Stopper Ring Part](https://cvilleschools.onshape.com/documents/8eda673fefaec82919b2605d/w/e2e279f3543df728c9e7ceaf/e/c87201af71408a08f58339ae)
+[Part Studio containing my Stopper Ring part](https://cvilleschools.onshape.com/documents/8eda673fefaec82919b2605d/w/e2e279f3543df728c9e7ceaf/e/c87201af71408a08f58339ae)
 
 ### Image
 
