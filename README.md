@@ -6,3 +6,4 @@ This repo contains all of the BasicCAD Assignments from Engineering II.
 * [**Assignment 1: Caster**](/caster)
 * [**Assignment 2: Dorothy's Dowels**](/dorothy_dowels)
 * [**Extra Credit: Onshape Challenge**](/onshape_challenge)
+* [**Collaboration Challenge: Vacuum Pump**](/vacuum_pump)
