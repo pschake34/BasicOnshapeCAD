@@ -55,7 +55,7 @@ length: the long version was 12" long, and the short version was 8" long.
 
 ### Reflection
 
-The frame was more difficuly to make than the dowel pins. When making my holes in the sides of the frame, I used the little trick you showed us in
+The frame was more difficult to make than the dowel pins. When making my holes in the sides of the frame, I used the little trick you showed us in
 class. I made the two holes on one side of the frame (centering them with some construction lines and a sketch mirror), and then mirrored the two holes
 onto the other side using a mate connector as the mirror plane. The feature to use a mate connector as a plane is purely magical.
 
